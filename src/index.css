@@ -59,6 +59,8 @@ button,
 select,
 input {
   background-color: rgba(236, 198, 198, 0.7);
+   margin-bottom: 10px;
+  margin-top: 10px;
   color: #6c5d53;
   font-family: inherit;
   border: none;
