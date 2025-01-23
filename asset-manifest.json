@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-exercise-travel-planer/static/css/main.e0f7466f.css",
+    "main.js": "/react-exercise-travel-planer/static/js/main.396375c2.js",
+    "static/media/backgound.jpg": "/react-exercise-travel-planer/static/media/backgound.930e565523e670385fee.jpg",
+    "index.html": "/react-exercise-travel-planer/index.html",
+    "main.e0f7466f.css.map": "/react-exercise-travel-planer/static/css/main.e0f7466f.css.map",
+    "main.396375c2.js.map": "/react-exercise-travel-planer/static/js/main.396375c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f7466f.css",
+    "static/js/main.396375c2.js"
+  ]
+}
